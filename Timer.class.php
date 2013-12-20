@@ -2,7 +2,7 @@
 
 /**
  * 2013.12.20 - Jesse L Quattlebaum (psyjoniz@gmail.com) (https://github.com/psyjoniz/code_sample__Timer)
- * A class for timing things in code; ie: api calls or db interaction
+ * A class for timing things in code.
  */
 
 class Timer {
